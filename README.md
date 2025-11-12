@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Ultimate Learning Resources Hub
+# 🎓 Awesome Resources
 
 ### A curated collection of high-quality learning resources across all fields
 
