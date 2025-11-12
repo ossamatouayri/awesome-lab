@@ -658,7 +658,7 @@ We prioritize resources that are:
 
 ## 📜 Code of Conduct
 
-This project adheres to a code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [email@example.com].
+This project adheres to a code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [me.com].
 
 ---
 
