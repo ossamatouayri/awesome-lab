@@ -295,7 +295,10 @@ Unleash your creativity with these design resources.
 - **[Google UX Design Certificate](https://grow.google/certificates/ux-design/)** - Professional certificate
 
 **Tools & Assets**
-- **[GRAPHICBUNDLE 675 GB Pack](https://drive.google.com/file/d/1Q9pVlFgBnL5t6jzJATwwbw_y05EYmAei/view)** - Free Ultimate Graphic Designing Bundle
+- **[GRAPHICBUNDLE 675 GB Pack](https://drive.google.com/file/d/1Q9pVlFgBnL5t6jzJATwwbw_y05EYmAei/view)** - Free Ultimate Graphic Designing Bundle.
+- **[Free Mockups](https://drive.google.com/drive/folders/1kiFJg89rUwrg4altlweRwShzv9Ji9mUy?fbclid=IwAR1tRqu-qm_psy1kFOzzMWDA2fchHU-Vr2gX3c4CTEV5XivYNS0W50ABk_w)** - Free Mockups .Ready For Design.
+- **[Free Mockups](https://drive.google.com/drive/folders/1qdpJ_RMiRaC1mTDqfNSvcr7STBQtb5aW?fbclid=IwY2xjawJHnqZleHRuA2FlbQIxMAABHTNASyudwUi0iWXiiNo4mQtKeFeVA9CHqdXtixR18ryWQP1bmYWwIZV6VQ_aem_HV8NBdOTV0_TBU4c6wVDQQ)** - Free Designs .
+
 
 **Inspiration**
 - **[Dribbble](https://dribbble.com/)** - Design inspiration
