@@ -676,11 +676,8 @@ This project adheres to a code of conduct. By participating, you are expected to
 
 Join our community to discuss resources and learning:
 
-- 💬 [Discussions](https://github.com/yourusername/repo/discussions) - Ask questions and share ideas
+- 💬 [Discussions](https://discord.gg/qE3vwSW46B) - Ask questions and share ideas
 - 🐛 [Issues](https://github.com/yourusername/repo/issues) - Report broken links or suggest improvements
-- 🌐 [Website](https://yourwebsite.com) - Visit our companion website
-- 📧 [Newsletter](https://newsletter-link.com) - Get weekly resource updates
-- 🐦 [Twitter](https://twitter.com/yourusername) - Follow for quick updates
 
 ---
 
