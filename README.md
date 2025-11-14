@@ -667,11 +667,11 @@ This project adheres to a code of conduct. By participating, you are expected to
 
 ## 📊 Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/repo?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/repo?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/repo)
-![Last commit](https://img.shields.io/github/last-commit/yourusername/repo)
+![GitHub stars](https://img.shields.io/github/stars/ossamatouayri/awesome-lab?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ossamatouayri/awesome-lab?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ossamatouayri/awesome-lab?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/ossamatouayri/awesome-lab)
+![Last commit](https://img.shields.io/github/last-commit/ossamatouayri/awesome-lab)
 
 ---
 
@@ -698,7 +698,7 @@ If you find this repository helpful, please consider:
 - 🔗 **Sharing** it with others who might benefit
 - 🤝 **Contributing** new resources
 - 💬 **Engaging** in discussions
-- ☕ [**Buy me a coffee**](https://buymeacoffee.com/yourusername)
+<!-- - ☕ [**Buy me a coffee**](https://buymeacoffee.com/yourusername) -->
 
 ---
 
