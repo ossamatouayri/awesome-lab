@@ -153,7 +153,6 @@ Master the art of coding with these comprehensive resources across different pro
 
 **Node.js**
 - **[Node.js Documentation](https://nodejs.org/docs/)** - Official Node.js guides
-- **[Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)** - Curated list of Node.js packages and resources
 - **[Express.js Guide](https://expressjs.com/en/guide/routing.html)** - Web framework for Node
 - **[NestJS Documentation](https://docs.nestjs.com/)** - Progressive Node.js framework
 
