@@ -320,6 +320,7 @@ Unleash your creativity with these design resources.
 - **[Design Resources](https://designresourc.es/)** - Curated design tools
 - **[Skillshare Graphic Design](https://www.skillshare.com/browse/graphic-design)** - Video courses
 - **[Envato Tuts+](https://design.tutsplus.com/)** - Design tutorials
+- **[BulkPicTools](https://bulkpictools.com)** - Privacy-first, browser-side image processing engine (WASM). Bulk compress, convert, and resize assets with zero server uploads.
 
 **[⬆ Back to Top](#-ultimate-learning-resources-hub)**
 
