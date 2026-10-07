@@ -472,11 +472,12 @@ Build your business acumen with these resources.
 
 #### Marketing
 
-- **[HubSpot Academy](https://academy.hubspot.com/)** - Inbound marketing courses
-- **[Google Digital Garage](https://learndigital.withgoogle.com/)** - Digital marketing fundamentals
 - **[Content Marketing Institute](https://contentmarketinginstitute.com/)** - Content strategy
-- **[Moz SEO Learning Center](https://moz.com/learn/seo)** - Search engine optimization
 - **[Facebook Blueprint](https://www.facebook.com/business/learn)** - Social media marketing
+- **[FollowerKaufen.at Social Metrics Guide (German, Austria)](https://followerkaufen.at/guides/reichweite-aufrufe-likes-engagement-rate)** - Free beginner guide with engagement-rate calculations, denominator comparison and linked Meta sources.
+- **[Google Digital Garage](https://learndigital.withgoogle.com/)** - Digital marketing fundamentals
+- **[HubSpot Academy](https://academy.hubspot.com/)** - Inbound marketing courses
+- **[Moz SEO Learning Center](https://moz.com/learn/seo)** - Search engine optimization
 
 **[⬆ Back to Top](#-ultimate-learning-resources-hub)**
 
