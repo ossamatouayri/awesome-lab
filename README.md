@@ -554,6 +554,7 @@ Explore the wonders of science with these educational resources.
 - **[LibreTexts Chemistry](https://chem.libretexts.org/)** - Free chemistry textbooks
 - **[Chemix](https://chemix.org/)** - Online chemistry drawing tool
 - **[Chempirical](https://chempirical.com/)** - Free structure editor, equation balancer and chemistry calculators in the browser, no account
+- **[carboncarbon.bond](https://carboncarbon.bond)** - Free organic chemistry course: 50 short lessons with 3D molecule models and a quick check after each section, no account
 
 **[⬆ Back to Top](#-ultimate-learning-resources-hub)**
 
