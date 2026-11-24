@@ -318,6 +318,7 @@ Unleash your creativity with these design resources.
 - **[Adobe Creative Cloud Tutorials](https://helpx.adobe.com/creative-cloud/tutorials-explore.html)** - Official Adobe tutorials
 - **[Canva Design School](https://www.canva.com/designschool/)** - Design principles
 - **[Design Resources](https://designresourc.es/)** - Curated design tools
+- **[PixelArtHive](https://pixelarthive.com/)** - Free image-to-pixel-art conversion and pixel art upscaling, processed locally in the browser.
 - **[Skillshare Graphic Design](https://www.skillshare.com/browse/graphic-design)** - Video courses
 - **[Envato Tuts+](https://design.tutsplus.com/)** - Design tutorials
 - **[BulkPicTools](https://bulkpictools.com)** - Privacy-first, browser-side image processing engine (WASM). Bulk compress, convert, and resize assets with zero server uploads.
